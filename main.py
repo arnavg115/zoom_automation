@@ -4,7 +4,7 @@ from datetime import datetime
 from selenium import webdriver
 import time
 
-PATH = "/Users/pyeushgurha/Desktop/seleniumdriver/chromedriver"
+PATH = "enteryourpathhere"
 driver = webdriver.Chrome(PATH)
 
 def openr(URL):
